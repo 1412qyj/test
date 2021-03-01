@@ -9,5 +9,8 @@ int main(int argc, const char *argv[])
 
     func();
 
+    for (int i = 0; i < ; ++i) {
+        printf("test tab template\n");
+    }
     return 0;
 }
